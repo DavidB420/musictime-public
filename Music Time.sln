@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Music Time", "Music Time\Music Time.pyproj", "{8893C2A9-92DB-4FF2-B817-F24873BD0995}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8893C2A9-92DB-4FF2-B817-F24873BD0995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8893C2A9-92DB-4FF2-B817-F24873BD0995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09FFF998-7322-441C-A51E-3C9DE7BE265A}
+	EndGlobalSection
+EndGlobal
