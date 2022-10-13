@@ -89,4 +89,4 @@ client.add_command(d)
 client.add_command(h)
 client.add_command(s)
 
-client.run('ODg2NzM2MjIwNTA2NDIzMzI2.YT57dQ.l1PZPoBwMWm2jSHe31zOQZSf89o')
+client.run('')
