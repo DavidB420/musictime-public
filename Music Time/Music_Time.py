@@ -75,7 +75,7 @@ async def s(ctx):
 
 @commands.command()
 async def h(ctx):
-    await ctx.channel.send('Some crappy music bot v1.0 Made by David101')
+    await ctx.channel.send('Some music bot v1.0 Made by David101')
     await ctx.channel.send('Commands:')
     await ctx.channel.send('$p search query - Play a song with a search query')
     await ctx.channel.send('$pu url - Play a song (YOU MUST PROVIDE A URL)')
